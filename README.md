@@ -1,7 +1,7 @@
 # ECE285 Project B : Style Transfer
 Description
 ===========
-This is project on Style Transfer is developed by team Paint.io composed of Ayon, Alakh, Nileesh and Avinash.
+This is project on Style Transfer is developed by team Paint.io composed of Ayon, Alakh, Nilesh and Avinash.
 
 Code organization
 =================
